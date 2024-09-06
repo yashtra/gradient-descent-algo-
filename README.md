@@ -1,1 +1,3 @@
-# gradient-descent-algo-
+# gradient-descent-algo-for-machine-learning
+Gradient Descent Algorithm for machine learning from Scratch
+This repository contains a full implementation of the Gradient Descent optimization algorithm from scratch in Python. It provides an in-depth look at how the algorithm works by iteratively adjusting parameters to minimize a cost function. The code includes both standard and variant approaches such as batch, stochastic, and mini-batch gradient descent, offering flexibility and insights into their behavior. The project is designed to help understand the optimization process used in training machine learning models, without relying on external libraries.
